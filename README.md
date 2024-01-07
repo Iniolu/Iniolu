@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Akanmu</h1>
-<h3 align="center">A Software Engineer From Edmonton, AB</h3>
+<h3 align="center">A Software Developer From Edmonton, AB</h3>
 
 - 🌱 I’m currently learning **Backend Engineering**
 - 📫 How to reach me **Daniel.InioluwaA@gmail.com**
