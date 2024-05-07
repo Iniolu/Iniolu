@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cartoon-image of Daniel.png" alt="Cartoon Image of Daniel" width="1000"/>
+  <img src="cartoon-image of Daniel.png" alt="Cartoon Image of Daniel" width="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Daniel Akanmu</h1>
